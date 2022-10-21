@@ -1,6 +1,6 @@
 # Slack Backup Viewer
 
-![app screenshot](screenshot.png?raw=true)
+![app screenshot](screenshot.jpg?raw=true)
 
 ## Usage
 - Use [edemaine/slack-backup](https://github.com/edemaine/slack-backup) to download a copy of your Slack Workspace
