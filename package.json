@@ -1,0 +1,24 @@
+{
+  "name": "slack-backup",
+  "version": "1.0.0",
+  "description": "This Python script downloads a backup of all Slack users, all channels (*including private channels*), and all messages in those channels. The produced dump is in the same format produced by an [official Slack export of workspace data](https://slack.com/help/articles/201658943-Export-your-workspace-data) (which works well for public channels but not private channels).",
+  "main": "viewer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edemaine/slack-backup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edemaine/slack-backup/issues"
+  },
+  "homepage": "https://github.com/edemaine/slack-backup#readme",
+  "dependencies": {
+    "mime": "^3.0.0",
+    "slack-markdown": "^0.2.0",
+    "yargs": "^17.6.0"
+  }
+}
