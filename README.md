@@ -12,6 +12,6 @@
 
 ```
 npm install
-node viewer.js --path=/Users/kingsloi/Sites/slack-backup-repo/backup --workspace='⚰  TECH OPS'
+node slack-backup-viewer.js --path=/Users/kingsloi/Sites/slack-backup-repo/backup --workspace='⚰  TECH OPS'
 > Server is running on http://localhost:8889
 ```
